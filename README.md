@@ -6,7 +6,7 @@ Reference implementation of the catalysis Gateway number $`G`$ and its verificat
 
 > *Quantum spin regulates the catalytic cycle beyond binding energy* (submitted to *The Journal of Chemical Physics*).
 
-Archive: https://doi.org/10.5281/zenodo.21440491
+Archive: https://doi.org/10.5281/zenodo.23251615
 
 The Gateway number is the basis-invariant weight of non-dissipative circulation $`\mathcal{L}`$ (antisymmetric) relative to dissipation $`\mathcal{D}`$ (symmetric), formed from the relaxation operator $`(\mathcal{D}+\mathcal{L})g`$ with $`g`$ the positive-definite local metric:
 
